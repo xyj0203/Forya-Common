@@ -1,0 +1,1 @@
+用于放置自己平常开发时使用的JAVA通用的版本包，如Springboot的版本、SpringCloud的版本等等版本限制使用！
